@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-# find / https://www.notion.so/highereducation/find-e5efdde45d614a4192564b600406e903
+# find / https://github.com/jasoncomes/Find-Liquid-Filter
 # Returns the number of instances a string appears.
 # {{ haystack | find: needle }}
 
